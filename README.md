@@ -244,11 +244,11 @@ The best way to install any version of NodeJS is to use the [NodeSource Node.js 
 The package `build-essential` is necessary to compile `serialport`. If there's a binary for your platform you won't need it. Keep rocking!
 
 ```
-# Using Ubuntu and node 6
+# Using Ubuntu and node 7
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
-# Using Debian and node 6, as root
+# Using Debian and node 7, as root
 curl -sL https://deb.nodesource.com/setup_7.x | bash -
 apt-get install -y nodejs
 ```
